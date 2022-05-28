@@ -1,0 +1,7 @@
+defmodule This_is_hellos_world do
+
+  def hello! do
+    IO.puts("Hello World damit!")
+  end
+
+end
